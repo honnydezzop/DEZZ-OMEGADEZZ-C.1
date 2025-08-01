@@ -267,8 +267,6 @@ local function switchTab(tabName)
             "Admins de HZ : MathiKingDezz, ChrisDezz, SalvaDezz, MiuDezz, MaykelDezz",
 
             "Somos Comunidad HZ y Dezz"
-
-            "Colaborador ROBLOX User: twin2kz - Arle ---- TIKTOK: Arlexuin"
         }
 
         for _, text in ipairs(lines) do
