@@ -71,7 +71,7 @@ local contentByTab = {
         "Roca de 5k", "Roca de 100", "Roca de 10", "Roca de 0"},
     ["Teleport"] = {"Tp 0 Rebiths", "Tp 1 Rebith", "Tp 5 Rebiths", "Tp 15 Rebiths", "Tp 30 Rebiths", "Tp king", "Tp jungla gym"},
     ["Creditos"] = {
-        "username: pabloff1992",
+        "username: HonnyDezz",
         "nombre: HonnyDezz"
     }
 }
@@ -97,7 +97,7 @@ for i, name in ipairs(tabs) do
     btn.TextColor3 = Color3.fromRGB(255, 255, 255)
     btn.Font = Enum.Font.Gotham
     btn.TextSize = 16
-    btn.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+    btn.BackgroundColor3 = Color3.fromRGB(242, 125, 183)
     btn.BorderSizePixel = 0
     btn.Parent = TabPanel
 
@@ -260,13 +260,13 @@ local function switchTab(tabName)
         local y = 10
         local lines = {
             "Este Script fue creado por:",
-            "username: HonnyDezz User:Pabloff1992",
+            "Username: HonnyDezz User:Pabloff1992",
 
             "Siganme en TikTok: @honnydezz",
 
-            "Gracias por comprar este Script",
+            "Admins de HZ : MathiKingDezz, ChrisDezz, SalvaDezz, MiuDezz, MaykelDezz",
 
-            "Pronto mas Scrips como este y mas Op!"
+            "Somos Comunidad HZ y Dezz"
         }
 
         for _, text in ipairs(lines) do
@@ -299,7 +299,7 @@ local y = 10
         btn.Size = UDim2.new(0, 195, 1, 0)
         btn.Position = UDim2.new(0, 0, 0, 0)
         btn.Text = name
-        btn.TextColor3 = Color3.fromRGB(241, 141, 247)
+        btn.TextColor3 = Color3.fromRGB(255, 255, 255)
         btn.BackgroundColor3 = Color3.fromRGB(74, 14, 159)
         btn.Parent = container
 
