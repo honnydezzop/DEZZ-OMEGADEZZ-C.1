@@ -15,7 +15,7 @@ _G.lockPosition = false
 
 -- Frame principal
 local MainFrame = Instance.new("Frame")
-MainFrame.Size = UDim2.new(243, 40, 246)
+MainFrame.Size = UDim2.new(0, 600, 0, 400)
 MainFrame.Position = UDim2.new(0.5, -300, 0.5, -200)
 MainFrame.BackgroundColor3 = Color3.fromRGB(154, 230, 48)
 MainFrame.BorderSizePixel = 0
