@@ -262,11 +262,13 @@ local function switchTab(tabName)
             "Este Script fue creado por:",
             "Username: HonnyDezz User:Pabloff1992",
 
-            "Siganme en TikTok: @honnydezz",
+            "Siganme en TIKTOK: @honnydezz",
 
             "Admins de HZ : MathiKingDezz, ChrisDezz, SalvaDezz, MiuDezz, MaykelDezz",
 
             "Somos Comunidad HZ y Dezz"
+
+            "Colaborador ROBLOX User: twin2kz - Arle ---- TIKTOK: Arlexuin"
         }
 
         for _, text in ipairs(lines) do
